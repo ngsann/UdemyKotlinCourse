@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Udemy-Conditionals.iml" filepath="$PROJECT_DIR$/.idea/modules/Udemy-Conditionals.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Udemy-Conditionals-js/Udemy-Conditionals-js.iml" filepath="$PROJECT_DIR$/.idea/modules/Udemy-Conditionals-js/Udemy-Conditionals-js.iml" group="Udemy-Conditionals-js" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Udemy-Conditionals-js/Udemy-Conditionals-js_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Udemy-Conditionals-js/Udemy-Conditionals-js_main.iml" group="Udemy-Conditionals-js" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Udemy-Conditionals-js/Udemy-Conditionals-js_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Udemy-Conditionals-js/Udemy-Conditionals-js_test.iml" group="Udemy-Conditionals-js" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Udemy-Conditionals-jvm/Udemy-Conditionals-jvm.iml" filepath="$PROJECT_DIR$/.idea/modules/Udemy-Conditionals-jvm/Udemy-Conditionals-jvm.iml" group="Udemy-Conditionals-jvm" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Udemy-Conditionals-jvm/Udemy-Conditionals-jvm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Udemy-Conditionals-jvm/Udemy-Conditionals-jvm_main.iml" group="Udemy-Conditionals-jvm" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Udemy-Conditionals-jvm/Udemy-Conditionals-jvm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Udemy-Conditionals-jvm/Udemy-Conditionals-jvm_test.iml" group="Udemy-Conditionals-jvm" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Udemy-Conditionals_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Udemy-Conditionals_main.iml" group="Udemy-Conditionals" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Udemy-Conditionals_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Udemy-Conditionals_test.iml" group="Udemy-Conditionals" />
+      <module fileurl="file://$PROJECT_DIR$/Challenge_1_Conditionals.iml" filepath="$PROJECT_DIR$/Challenge_1_Conditionals.iml" />
     </modules>
   </component>
 </project>
